@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+ScienceFacility/Saved/StagedBuilds/WindowsNoEditor/ScienceFacility/Content/Paks/ScienceFacility-WindowsNoEditor.pak
+ScienceFacility/Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
+ScienceFacility/Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
+ScienceFacility/Intermediate/CachedAssetRegistry.bin
+ScienceFacility/Saved/Logs/ScienceFacility.log
